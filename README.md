@@ -39,7 +39,7 @@ python ppo_market_maker.py
 
 Ensure you have set up your API keys and configurations properly as instructed by `quantpylib` documentation.
 
-## Performance Metrics
+## TODO: Performance Metrics
 
 Key metrics tracked:
 - Profit & Loss (P&L)
@@ -52,7 +52,6 @@ Key metrics tracked:
 ```
 PPO-Market-Making/
 ├── ppo_market_maker.py      # Main PPO algorithm
-├── utils.py                 # Utility functions
 ├── config.yaml              # Configuration parameters
 ├── README.md                # Documentation
 └── .gitignore               # Files to ignore
