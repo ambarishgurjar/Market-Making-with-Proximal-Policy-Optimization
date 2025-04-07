@@ -1,7 +1,6 @@
-# Market-Making-with-Proximal-Policy-Optimization
-This repository provides an implementation of Proximal Policy Optimization (PPO) for automated market making on cryptocurrencies
-
 # Proximal Policy Optimization (PPO) for Market Making
+
+This repository provides an implementation of Proximal Policy Optimization (PPO) for automated market making on cryptocurrencies
 
 ## Overview
 
@@ -16,7 +15,7 @@ This repository provides an implementation of **Proximal Policy Optimization (PP
 - **Integration with quantpylib**: Utilizes quantpylib's proprietary infrastructure for seamless order management, execution, and data handling.
 - **Backtesting and Simulation**: Easy-to-use framework to test and validate your strategies against historical market data.
 
-## 🛠 Installation
+## Installation
 
 ### Prerequisites
 
